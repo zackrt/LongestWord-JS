@@ -1,2 +1,1 @@
 # LongestWord-JS
-# LongestWord-JS
